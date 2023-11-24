@@ -1,0 +1,13 @@
+body{
+    margin: 10vh 10vw;
+}
+
+img{
+    height: 20vh;
+    margin: 5px;
+}
+
+.atas,
+.bawah{
+    display: flex;
+}
